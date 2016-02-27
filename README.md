@@ -27,6 +27,10 @@ Angular Code:
     
     })();
 
+Angular HTML Code:
+
+    <div loader></div>
+
 Loader Service:
 
     (function () {
